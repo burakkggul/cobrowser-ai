@@ -1,4 +1,4 @@
-# Browser AI
+# CoBrowser AI
 
 CoBrowser AI is an API for browser automation using prompts. It allows you to control and automate browser actions by sending natural language instructions to the API. This project is designed to make browser automation easy and accessible through simple prompt-based commands.
 
